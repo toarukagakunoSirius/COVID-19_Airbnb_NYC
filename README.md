@@ -15,4 +15,6 @@ For using textblob to slice the description and calculate high frequency and hig
 
 And result dataset in ml2018.csv and ml2021.csv are words frequency in 2018 and 2021.
 
+For adding words extracted from Description as dummy variables into dateframe, please find Textblob_Description.ipynb.
+
 For decision tree analysis process, please find our code in DT.ipynb. 
