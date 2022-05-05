@@ -9,10 +9,10 @@ https://drive.google.com/drive/folders/1xk5RyR-UgF6M-ddhn11SXHEWJeB0fQo5?usp=sha
 Original data source for NYC Airbnb listingings September 2018 available at:
 http://data.insideairbnb.com/united-states/ny/new-york-city/2021-12-04/data/listings.csv.gz
 
-For data cleaning process and cleaned dataset, please find in clean_V2.ipynb, listing_ny_2018_09_filtered_V2.csv and listing_ny_2021_09_filtered_V2.csv
+For data cleaning process and cleaned dataset, please find in clean_V2.ipynb.
 
 For using textblob to slice the description and calculate high frequency and high growth rate words, please find code in ML_2018.ipynb and ml2021.ipynb.
 
-And result dataset inml2018.csv and ml2021.csv are words frequency in 2018 and 2021.
+And result dataset in ml2018.csv and ml2021.csv are words frequency in 2018 and 2021.
 
 For decision tree analysis process, please find our code in DT.ipynb. 
