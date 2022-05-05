@@ -9,4 +9,8 @@ https://drive.google.com/drive/folders/1xk5RyR-UgF6M-ddhn11SXHEWJeB0fQo5?usp=sha
 Original data source for NYC Airbnb listingings September 2018 available at:
 http://data.insideairbnb.com/united-states/ny/new-york-city/2021-12-04/data/listings.csv.gz
 
+For using textblob to slice the description and calculate high frequency and high growth rate words, please find ML_2018.ipynb and ml2021.ipynb.
+
+ml2018.csv and ml2021.csv are words frequency in 2018 and 2021.
+
 For decision tree analysis process, please find our code in DT.ipynb. 
